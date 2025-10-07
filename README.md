@@ -9,4 +9,3 @@ A theme for Omarchy.
 ```
 omarchy-theme-install https://github.com/komagata/omarchy-kawasaki-foundry-theme
 ```
-```
