@@ -1,13 +1,13 @@
-# Kawasaki Foundry
+# Kawasaki Refinery
 
 A theme for Omarchy.
 
-Kawasaki is a city known for its heavy industry in Japan.
+An Omarchy theme inspired by the refineries and industrial nightscape of Kawasaki, Japan.
 
-![background](backgrounds/kawasaki-foundry.png)
+![background](backgrounds/kawasaki-refinery.png)
 
 ## Installation
 
 ```
-omarchy-theme-install https://github.com/komagata/omarchy-kawasaki-foundry-theme
+omarchy theme install https://github.com/komagata/omarchy-kawasaki-refinery-theme
 ```
