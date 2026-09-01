@@ -1,15 +1,13 @@
-# Kawasaki Refinery
-
-A theme for Omarchy.
+# Kawasaki Foundry
 
 An Omarchy theme inspired by the refineries and industrial nightscape of Kawasaki, Japan.
 
-![Kawasaki Refinery background](backgrounds/kawasaki-refinery.jpg)
+![Kawasaki Foundry background](backgrounds/kawasaki-foundry.png)
 
-Photo by [mos design](https://unsplash.com/@mosdesign) on [Unsplash](https://unsplash.com/photos/Qwc4DKBjqEU), photographed in Kawasaki, Kanagawa, Japan.
+The 4K background was generated for this theme with OpenAI image generation.
 
 ## Installation
 
-```
-omarchy theme install https://github.com/komagata/omarchy-kawasaki-refinery-theme
+```sh
+omarchy theme install https://github.com/komagata/omarchy-kawasaki-foundry-theme
 ```
