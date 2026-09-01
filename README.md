@@ -4,6 +4,10 @@ A theme for Omarchy.
 
 Kawasaki is a city known for its heavy industry in Japan.
 
+![Kawasaki Foundry theme preview](preview.png)
+
+## Background
+
 ![background](backgrounds/kawasaki-foundry.png)
 
 ## Installation
